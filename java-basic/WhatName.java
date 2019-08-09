@@ -1,5 +1,5 @@
 class WhatName{
     public static void main(String[] arg){
-        System.out.println("æ»≥Á«œººø‰");
+        System.out.println("What's your name?");
     }
      }
